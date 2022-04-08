@@ -1,0 +1,19 @@
+html {
+  font-family: roboto, arial, helvetica, sans-serif;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+a {
+  all: unset;
+}
+.login-button {
+  background: #5094ed;
+}
+.google-container {
+  display: flex;
+  justify-content: center;
+  height: 40vh;
+  flex-direction: column;
+}
